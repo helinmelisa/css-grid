@@ -54,7 +54,6 @@ main {
     min-width: 100%;
     min-height: 100%;
 }
-
 .panel.photos {
     grid-template-rows: 1fr 3fr;
     overflow: hidden;
